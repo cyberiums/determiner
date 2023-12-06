@@ -1,5 +1,5 @@
 # determiner
-Deterministic Programming Structure For Large Complex Projects
+Catalytic Deterministic Programming Structure For Large Complex Projects
 
 
 Large and complex projects are the fun stuff for software developers, but not for longer attachment. They quickly become a bane if not managed well. Such projects take months and years to build but if mismanaged, they quickly become an irreversible nightmare. That’s why we built “[Determiner](https://github.com/cyberiums/determiner)“.
