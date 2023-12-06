@@ -5,7 +5,7 @@ Deterministic Programming Structure For Large Complex Projects
 Large and complex projects are the fun stuff for software developers, but not for longer attachment. They quickly become a bane if not managed well. Such projects take months and years to build but if mismanaged, they quickly become an irreversible nightmare. That’s why we built “[Determiner](https://github.com/cyberiums/determiner)“.
 
 
-#### https://github.com/cyberiums/determiner
+
 
 This module is supposed to work as a catalytic facilitator to unwrap micro-tasks for a large and complex projects. It is an open source module with MIT license.
 
@@ -37,17 +37,12 @@ It is language agnostic. And community driven.
 Three Key Concepts.
 -------------------
 
-###### Product Story
+| Product Story      | Semantics AI | Microtask     |
+| :---        |    :----:   |          ---: |
+| [![Smart Product Story](https://www.cyberium.info/wp-content/uploads/2023/11/Screenshot-2023-11-30-at-8.18.51 PM-1024x453.png)](https://www.cyberium.info/smart-product-story-is-the-swiss-knife-of-software-engineering/)      | [![RTM Connect](https://www.cyberium.info/wp-content/uploads/2023/11/RTM-Connect-1024x576.jpeg)](https://www.cyberium.info/what-is-a-semantics-ai/)       | [![Micro Prompt Generation from Smart Product Story](https://www.cyberium.info/wp-content/uploads/2023/11/Screenshot-2023-11-18-at-10.19.47 AM-1024x540.png)](https://www.cyberium.info/what-is-a-microtask/)   |
+|    |         |       |
 
-[![Smart Product Story](https://www.cyberium.info/wp-content/uploads/2023/11/Screenshot-2023-11-30-at-8.18.51 PM-1024x453.png)](https://www.cyberium.info/smart-product-story-is-the-swiss-knife-of-software-engineering/)
 
-###### Semantics AI
-
-[![RTM Connect](https://www.cyberium.info/wp-content/uploads/2023/11/RTM-Connect-1024x576.jpeg)](https://www.cyberium.info/what-is-a-semantics-ai/)
-
-###### Microtask
-
-[![Micro Prompt Generation from Smart Product Story](https://www.cyberium.info/wp-content/uploads/2023/11/Screenshot-2023-11-18-at-10.19.47 AM-1024x540.png)](https://www.cyberium.info/what-is-a-microtask/)
 
 [And The Story Hub](https://www.cyberium.info/products/story-hub/)
 ------------------------------------------------------------------
