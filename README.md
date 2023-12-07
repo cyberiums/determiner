@@ -4,7 +4,7 @@
 
 [![Button Icon]][Link]
 <!----------------------------------------------------------------------------->
-[Link]: # 'Link with example title.'
+[Link]: https://fastbuilder.cyberium.info/builder/generate/0c283c95-1063-49b1-80f6-75349211c497 'Smart Product Story.'
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Icon]: https://fastbuilder.ai/story-icon-sm.png
 
