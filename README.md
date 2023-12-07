@@ -1,8 +1,16 @@
-# determiner
-> :Buttons
-> > :Button icon=true, label=code, url=https://github.com
->
-> > :Button label=NPM, url=https://npmjs.org
+# determiner 
+
+<div>
+
+[![Button Icon]][Link]
+<!----------------------------------------------------------------------------->
+[Link]: # 'Link with example title.'
+<!---------------------------------[ Buttons ]--------------------------------->
+[Button Icon]: https://fastbuilder.ai/story-icon-sm.png
+
+</div>
+
+
 
 Catalytic Deterministic Programming Structure For Large Complex Projects
 
