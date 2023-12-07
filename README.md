@@ -23,7 +23,7 @@ Large and complex projects are the fun stuff for software developers, but not fo
 This module is supposed to work as a catalytic facilitator to unwrap micro-tasks for a large and complex projects. It is an open source module with MIT license.
 
 
-Determiner works based on smart product story of [FastBuilder.AI](https://fastbuilder.ai).
+Determiner works based on smart product story, which can be created on [FastBuilder.AI](https://fastbuilder.ai).
 
 It fetches the micro-tasks from the plan section.
 
